@@ -1,0 +1,18 @@
+/* CSS món ăn nổi bật */
+
+.imgmonannoibat {
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+/* CSS footer */
+
+
+/* CSS ảnh sản phẩm trong cart */
+
+td .imgcart img {
+    width: 100px;
+    height: 70px;
+    border-radius: 10px;
+}
